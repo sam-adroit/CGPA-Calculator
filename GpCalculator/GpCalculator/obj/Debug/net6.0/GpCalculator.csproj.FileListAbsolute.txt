@@ -1,0 +1,15 @@
+C:\Users\Decagon001\source\repos\week-1-sam-adroit\GpCalculator\GpCalculator\bin\Debug\net6.0\GpCalculator.exe
+C:\Users\Decagon001\source\repos\week-1-sam-adroit\GpCalculator\GpCalculator\bin\Debug\net6.0\GpCalculator.deps.json
+C:\Users\Decagon001\source\repos\week-1-sam-adroit\GpCalculator\GpCalculator\bin\Debug\net6.0\GpCalculator.runtimeconfig.json
+C:\Users\Decagon001\source\repos\week-1-sam-adroit\GpCalculator\GpCalculator\bin\Debug\net6.0\GpCalculator.dll
+C:\Users\Decagon001\source\repos\week-1-sam-adroit\GpCalculator\GpCalculator\bin\Debug\net6.0\GpCalculator.pdb
+C:\Users\Decagon001\source\repos\week-1-sam-adroit\GpCalculator\GpCalculator\obj\Debug\net6.0\GpCalculator.csproj.AssemblyReference.cache
+C:\Users\Decagon001\source\repos\week-1-sam-adroit\GpCalculator\GpCalculator\obj\Debug\net6.0\GpCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon001\source\repos\week-1-sam-adroit\GpCalculator\GpCalculator\obj\Debug\net6.0\GpCalculator.AssemblyInfoInputs.cache
+C:\Users\Decagon001\source\repos\week-1-sam-adroit\GpCalculator\GpCalculator\obj\Debug\net6.0\GpCalculator.AssemblyInfo.cs
+C:\Users\Decagon001\source\repos\week-1-sam-adroit\GpCalculator\GpCalculator\obj\Debug\net6.0\GpCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Decagon001\source\repos\week-1-sam-adroit\GpCalculator\GpCalculator\obj\Debug\net6.0\GpCalculator.dll
+C:\Users\Decagon001\source\repos\week-1-sam-adroit\GpCalculator\GpCalculator\obj\Debug\net6.0\refint\GpCalculator.dll
+C:\Users\Decagon001\source\repos\week-1-sam-adroit\GpCalculator\GpCalculator\obj\Debug\net6.0\GpCalculator.pdb
+C:\Users\Decagon001\source\repos\week-1-sam-adroit\GpCalculator\GpCalculator\obj\Debug\net6.0\GpCalculator.genruntimeconfig.cache
+C:\Users\Decagon001\source\repos\week-1-sam-adroit\GpCalculator\GpCalculator\obj\Debug\net6.0\ref\GpCalculator.dll
